@@ -1,0 +1,240 @@
+# depslib dependency file v1.0
+1593112181 source:d:\ics4u1\crossy road - jerry edition\main.cpp
+	<windows.h>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<iostream>
+	<fstream>
+	<sstream>
+	<GLUT/glut.h>
+	<GL/glut.h>
+
+1570902209 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1570902209 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1570902209 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\winuser.h
+
+1570902209 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1570902209 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\winerror.h
+
+1570902209 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1570902209 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\_mingw.h
+
+1570902207 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\basetsd.h
+
+1570902208 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\pshpack4.h
+
+1570902208 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\poppack.h
+
+1570902209 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\winver.h
+
+1570902207 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\dde.h
+
+1570902207 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\dlgs.h
+
+1570902207 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\commctrl.h
+	<prsht.h>
+
+1570902208 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\prsht.h
+
+1570902209 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\windef.h
+	<winnt.h>
+
+1570902209 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\wincon.h
+
+1570902209 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\winbase.h
+
+1570902209 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\wingdi.h
+
+1570902209 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\winnls.h
+
+1570902209 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\winnetwk.h
+
+1570902209 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\winreg.h
+
+1570902209 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\winsvc.h
+
+1570902207 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\cderr.h
+
+1570902207 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\ddeml.h
+
+1570902208 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\imm.h
+
+1570902208 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\lzexpand.h
+
+1570902208 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\mmsystem.h
+
+1570902208 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\nb30.h
+
+1570902208 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1570902208 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1570902207 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\basetyps.h
+
+1570902208 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\rpcdcep.h
+
+1570902208 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\rpcnsi.h
+
+1570902209 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\rpcnterr.h
+
+1570902208 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1570902209 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1570902208 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\pshpack2.h
+
+1570902209 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\winperf.h
+
+1570902207 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1570902209 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1570902208 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\objfwd.h
+	<basetyps.h>
+
+1570902209 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1570902208 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1570902209 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\rpcnsip.h
+
+1570902209 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\winspool.h
+
+1570902209 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\winsock2.h
+	<windows.h>
+
+1570902209 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1570902208 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\mswsock.h
+
+1570902208 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1570902208 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1570902209 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1570902208 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\objidl.h
+	<objfwd.h>
+
+1570902207 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\cguid.h
+
+1570902208 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\olectlid.h
+
+1570902208 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\oleauto.h
+	<oaidl.h>
+
+1570902208 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1570902208 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\oleidl.h
+	<objfwd.h>
+
+1575060044 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1570902210 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\gl\gl.h
+
+1570902210 d:\ics4u1\codeblocks-17.12mingw-nosetup\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1593112181 source:d:\ics4u1\crossy road (finished)\main.cpp
+	<windows.h>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<iostream>
+	<fstream>
+	<sstream>
+	<GLUT/glut.h>
+	<GL/glut.h>
+
