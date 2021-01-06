@@ -1,2 +1,2 @@
 # CrossyRoad-Clone
-This program attempts at cloning the arcade game Crossy Road in C++ and OpenGL.
+This program re-creates the popular arcade game Crossy Road in C++ and OpenGL.
